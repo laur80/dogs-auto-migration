@@ -1,3 +1,4 @@
+// import "./App.css";
 import React from "react";
 import Routes from "./Routes";
 import Navbar from "./Navbar";
@@ -5,7 +6,6 @@ import Navbar from "./Navbar";
 import whiskey from "./images/whiskey.jpg";
 import tubby from "./images/tubby.jpg";
 import hazel from "./images/hazel.jpg";
-import "./App.css";
 
 function App () {
   

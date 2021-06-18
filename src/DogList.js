@@ -1,5 +1,5 @@
+// import './DogList.css';
 import React from 'react';
-import './DogList.css';
 import { Link } from "react-router-dom";
 
 function DogList(props) {
